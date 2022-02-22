@@ -2,3 +2,4 @@
 #This is my second comment
 #This is my third comment
 VARIABLE=1
+HOSTNAME=server
